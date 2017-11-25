@@ -2,6 +2,12 @@
 
 Minimal boilerplate for typescript projects.
 
+Cloning:
+
+```bash
+git clone git@github.com:ivpusic/ts-boilerplate.git
+```
+
 Commands:
 
 ```bash
